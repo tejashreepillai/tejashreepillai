@@ -18,4 +18,6 @@ I'm a Sydney-based Data Analyst who enjoys turning complex and scattered data in
 
 ## Portfolio Projects
 
-I'm currently building this portfolio to showcase projects in student retention, SQL analytics, predictive modelling, recommendation systems and data visualisation.
+### [Student Retention & Progression Analytics](https://github.com/tejashreepillai/student-retention-analytics)
+
+Power BI case study examining retention, withdrawal and progression patterns across student cohorts. Includes data cleaning, bridge-table modelling, DAX KPIs, dashboard design and a reproducible Python workflow using synthetic data.
