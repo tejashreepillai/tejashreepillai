@@ -22,6 +22,10 @@ I'm a Sydney-based Data Analyst who enjoys turning complex and scattered data in
 
 Power BI case study examining retention, withdrawal and progression patterns across student cohorts. Includes data cleaning, bridge-table modelling, DAX KPIs, dashboard design and a reproducible Python workflow using synthetic data.
 
+### [Service Marketplace SQL Analytics](https://github.com/tejashreepillai/service-marketplace-sql-analytics)
+
+Designed and tested an Oracle SQL database for a fictional service marketplace. Includes a relational schema, data-integrity constraints, synthetic sample records and reproducible queries examining user engagement, payment preferences and task activity.
+
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/tejashreepillai/)
