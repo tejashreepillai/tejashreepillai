@@ -26,6 +26,12 @@ Power BI case study examining retention, withdrawal and progression patterns acr
 
 Designed and tested an Oracle SQL database for a fictional service marketplace. Includes a relational schema, data-integrity constraints, synthetic sample records and reproducible queries examining user engagement, payment preferences and task activity.
 
+### [Melbourne Airbnb Price Prediction](https://github.com/tejashreepillai/airbnb-price-prediction)
+
+**Python · scikit-learn · Machine Learning · Feature Engineering**
+
+Built an independent, leakage-safe regression pipeline comparing Ridge Regression, Random Forest and Gradient Boosting. The selected model reduced validation MAE by 27.5% against the baseline and achieved an MAE of $48.33 across 99.2% of mainstream validation listings. Includes reproducible data preparation, cross-validation, hyperparameter tuning, outlier analysis and feature-importance interpretation.
+
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/tejashreepillai/)
