@@ -21,3 +21,7 @@ I'm a Sydney-based Data Analyst who enjoys turning complex and scattered data in
 ### [Student Retention & Progression Analytics](https://github.com/tejashreepillai/student-retention-analytics)
 
 Power BI case study examining retention, withdrawal and progression patterns across student cohorts. Includes data cleaning, bridge-table modelling, DAX KPIs, dashboard design and a reproducible Python workflow using synthetic data.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/tejashreepillai/)
