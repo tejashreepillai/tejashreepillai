@@ -2,7 +2,7 @@
 
 I'm a Sydney-based analyst drawn to the work that happens before a dashboard looks polished. I like untangling inconsistent records, checking what a metric actually means, and making the result useful to the person making a decision.
 
-At Macquarie University, I support partnership reporting and operational data across more than 20 countries. At MOVE, I investigated platform and data-quality issues while supporting users across 100+ agencies. Earlier at Nivoda, I worked with workforce and recruitment reporting. Those experiences have shaped how I approach analysis. I try to understand the process, test the data, then communicate what the numbers can—and cannot—tell us.
+At Macquarie University, I support partnership reporting and operational data across more than 20 countries. At MOVE, I investigated platform and data-quality issues while supporting users across 100+ agencies. Earlier at Nivoda, I worked with workforce and recruitment reporting. Those experiences have shaped how I approach analysis. I try to understand the process, test the data, then communicate what the numbers can and cannot tell us.
 
 I have a Master of Business Analytics from Macquarie University and am looking for Data Analyst, Reporting Analyst, BI Analyst and data-focused Business Analyst roles.
 
