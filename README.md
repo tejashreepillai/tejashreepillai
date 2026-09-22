@@ -9,8 +9,11 @@ I have a Master of Business Analytics from Macquarie University and am looking f
 ## What I Work With
 
 **Analysis:** SQL, Python and Excel
+
 **Dashboards:** Power BI and DAX
+
 **Data operations:** Cleaning, validation, reconciliation and Smartsheet
+
 **Working with people:** Requirements, process analysis and stakeholder reporting
 
 I'm continuing to develop my Tableau skills.
